@@ -1,6 +1,6 @@
-token=
+token=NTg0MTk0OTEwNjU2Mzk3MzQy.XPHafA.RccgkxXs8iQ0j3s5FzZVvlD3R2w
 owner=475070652727033858
-prefix=
-game=
+prefix=30
+game=type 30play
 stayinchannel=true
 songinstatus=false
