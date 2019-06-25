@@ -1,6 +1,6 @@
-token=التوكن
-owner=ايدي الاونر
-prefix=الامر
-game=الحاله
+token=NTkyODk3NTUxMDI4NzE1NTQ5.XRGBBg.aUykJzUTaXLbJZ6QFAEXhiq-VvA
+owner=463492360735686679 
+prefix=a
+game=type Aplay
 stayinchannel=true
 songinstatus=false
